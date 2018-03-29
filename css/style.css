@@ -814,6 +814,7 @@ wrap{
     text-align: center;
     color:#fff;
     background:#aee9e8;
+    cursor: pointer;
 }
 
 .see_p a{
